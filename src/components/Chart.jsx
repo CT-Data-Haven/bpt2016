@@ -1,15 +1,14 @@
 import React from 'react';
-import * as _ from 'underscore';
 import { format } from 'd3-format';
-import { extent, max } from 'd3-array';
+import { max } from 'd3-array';
 import { ParentSize } from '@vx/responsive';
 import { Bar } from '@vx/shape';
 import { Group } from '@vx/group';
 import { AxisBottom, AxisLeft } from '@vx/axis';
 import { scaleOrdinal, scaleBand, scaleLinear } from '@vx/scale';
 import Tooltip from 'react-portal-tooltip';
-import { Motion, StaggeredMotion, spring } from 'react-motion';
-import { Grid, Responsive, Segment } from 'semantic-ui-react';
+import { Motion, spring } from 'react-motion';
+import { Grid } from 'semantic-ui-react';
 
 import '../styles/Chart.css';
 

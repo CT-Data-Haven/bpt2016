@@ -1,7 +1,6 @@
 import React from 'react';
-import { Table, Sticky } from 'semantic-ui-react';
+import { Table } from 'semantic-ui-react';
 import * as _ from 'underscore';
-import { nest } from 'd3-collection';
 import { format } from 'd3-format';
 import '../styles/DataTable.css';
 

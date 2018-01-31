@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
-import { Container, Grid, Header, Tab } from 'semantic-ui-react';
+import { Grid, Header, Tab } from 'semantic-ui-react';
 import * as _ from 'underscore';
 import { ckmeans } from 'simple-statistics';
 import { scaleThreshold } from 'd3-scale';
 import { nest } from 'd3-collection';
-import { Magenta, SunsetDark, BluGrn } from 'cartocolor';
 import { schemeGnBu } from 'd3-scale-chromatic';
 import './App.css';
 
