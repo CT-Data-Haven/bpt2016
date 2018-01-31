@@ -1,0 +1,561 @@
+neighborhood,city,geoType,indicator,value,topic,type,format,order,topicOrder
+Black Rock,Bridgeport,1_neighborhood,Total population,8284,Age,table,",",1,1
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Total population,23625,Age,table,",",1,1
+Downtown,Bridgeport,1_neighborhood,Total population,3735,Age,table,",",1,1
+East End,Bridgeport,1_neighborhood,Total population,9310,Age,table,",",1,1
+East Side,Bridgeport,1_neighborhood,Total population,13808,Age,table,",",1,1
+Enterprise,Bridgeport,1_neighborhood,Total population,728,Age,table,",",1,1
+Hollow,Bridgeport,1_neighborhood,Total population,7280,Age,table,",",1,1
+Mill Hill,Bridgeport,1_neighborhood,Total population,12776,Age,table,",",1,1
+North End,Bridgeport,1_neighborhood,Total population,24131,Age,table,",",1,1
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Total population,8739,Age,table,",",1,1
+South End,Bridgeport,1_neighborhood,Total population,3474,Age,table,",",1,1
+Upper East Side,Bridgeport,1_neighborhood,Total population,9492,Age,table,",",1,1
+West End-West Side,Bridgeport,1_neighborhood,Total population,21640,Age,table,",",1,1
+Bridgeport,Bridgeport,2_city,Total population,147022,Age,table,",",1,1
+Fairfield County,Bridgeport,3_county,Total population,941618,Age,table,",",1,1
+Connecticut,Bridgeport,4_state,Total population,3588570,Age,table,",",1,1
+Black Rock,Bridgeport,1_neighborhood,Population under age 18,1471,Age,table,",",2,2
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Population under age 18,5133,Age,table,",",2,2
+Downtown,Bridgeport,1_neighborhood,Population under age 18,758,Age,table,",",2,2
+East End,Bridgeport,1_neighborhood,Population under age 18,2642,Age,table,",",2,2
+East Side,Bridgeport,1_neighborhood,Population under age 18,4361,Age,table,",",2,2
+Enterprise,Bridgeport,1_neighborhood,Population under age 18,196,Age,table,",",2,2
+Hollow,Bridgeport,1_neighborhood,Population under age 18,2080,Age,table,",",2,2
+Mill Hill,Bridgeport,1_neighborhood,Population under age 18,3031,Age,table,",",2,2
+North End,Bridgeport,1_neighborhood,Population under age 18,4770,Age,table,",",2,2
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Population under age 18,2260,Age,table,",",2,2
+South End,Bridgeport,1_neighborhood,Population under age 18,584,Age,table,",",2,2
+Upper East Side,Bridgeport,1_neighborhood,Population under age 18,2476,Age,table,",",2,2
+West End-West Side,Bridgeport,1_neighborhood,Population under age 18,5983,Age,table,",",2,2
+Bridgeport,Bridgeport,2_city,Population under age 18,35745,Age,table,",",2,2
+Fairfield County,Bridgeport,3_county,Population under age 18,222006,Age,table,",",2,2
+Connecticut,Bridgeport,4_state,Population under age 18,773652,Age,table,",",2,2
+Black Rock,Bridgeport,1_neighborhood,Percent under age 18,0.178,Age,map,.0%,3,3
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Percent under age 18,0.217,Age,map,.0%,3,3
+Downtown,Bridgeport,1_neighborhood,Percent under age 18,0.203,Age,map,.0%,3,3
+East End,Bridgeport,1_neighborhood,Percent under age 18,0.284,Age,map,.0%,3,3
+East Side,Bridgeport,1_neighborhood,Percent under age 18,0.316,Age,map,.0%,3,3
+Enterprise,Bridgeport,1_neighborhood,Percent under age 18,0.269,Age,map,.0%,3,3
+Hollow,Bridgeport,1_neighborhood,Percent under age 18,0.286,Age,map,.0%,3,3
+Mill Hill,Bridgeport,1_neighborhood,Percent under age 18,0.237,Age,map,.0%,3,3
+North End,Bridgeport,1_neighborhood,Percent under age 18,0.198,Age,map,.0%,3,3
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Percent under age 18,0.259,Age,map,.0%,3,3
+South End,Bridgeport,1_neighborhood,Percent under age 18,0.168,Age,map,.0%,3,3
+Upper East Side,Bridgeport,1_neighborhood,Percent under age 18,0.261,Age,map,.0%,3,3
+West End-West Side,Bridgeport,1_neighborhood,Percent under age 18,0.276,Age,map,.0%,3,3
+Bridgeport,Bridgeport,2_city,Percent under age 18,0.243,Age,map,.0%,3,3
+Fairfield County,Bridgeport,3_county,Percent under age 18,0.236,Age,map,.0%,3,3
+Connecticut,Bridgeport,4_state,Percent under age 18,0.216,Age,map,.0%,3,3
+Black Rock,Bridgeport,1_neighborhood,Population ages 65+,1239,Age,table,",",4,4
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Population ages 65+,2626,Age,table,",",4,4
+Downtown,Bridgeport,1_neighborhood,Population ages 65+,455,Age,table,",",4,4
+East End,Bridgeport,1_neighborhood,Population ages 65+,750,Age,table,",",4,4
+East Side,Bridgeport,1_neighborhood,Population ages 65+,912,Age,table,",",4,4
+Enterprise,Bridgeport,1_neighborhood,Population ages 65+,66,Age,table,",",4,4
+Hollow,Bridgeport,1_neighborhood,Population ages 65+,360,Age,table,",",4,4
+Mill Hill,Bridgeport,1_neighborhood,Population ages 65+,1528,Age,table,",",4,4
+North End,Bridgeport,1_neighborhood,Population ages 65+,3100,Age,table,",",4,4
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Population ages 65+,925,Age,table,",",4,4
+South End,Bridgeport,1_neighborhood,Population ages 65+,235,Age,table,",",4,4
+Upper East Side,Bridgeport,1_neighborhood,Population ages 65+,1145,Age,table,",",4,4
+West End-West Side,Bridgeport,1_neighborhood,Population ages 65+,1747,Age,table,",",4,4
+Bridgeport,Bridgeport,2_city,Population ages 65+,15089,Age,table,",",4,4
+Fairfield County,Bridgeport,3_county,Population ages 65+,135434,Age,table,",",4,4
+Connecticut,Bridgeport,4_state,Population ages 65+,555023,Age,table,",",4,4
+Black Rock,Bridgeport,1_neighborhood,Percent ages 65+,0.15,Age,map,.0%,5,5
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Percent ages 65+,0.111,Age,map,.0%,5,5
+Downtown,Bridgeport,1_neighborhood,Percent ages 65+,0.122,Age,map,.0%,5,5
+East End,Bridgeport,1_neighborhood,Percent ages 65+,0.0806,Age,map,.0%,5,5
+East Side,Bridgeport,1_neighborhood,Percent ages 65+,0.066,Age,map,.0%,5,5
+Enterprise,Bridgeport,1_neighborhood,Percent ages 65+,0.0909,Age,map,.0%,5,5
+Hollow,Bridgeport,1_neighborhood,Percent ages 65+,0.0495,Age,map,.0%,5,5
+Mill Hill,Bridgeport,1_neighborhood,Percent ages 65+,0.12,Age,map,.0%,5,5
+North End,Bridgeport,1_neighborhood,Percent ages 65+,0.128,Age,map,.0%,5,5
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Percent ages 65+,0.106,Age,map,.0%,5,5
+South End,Bridgeport,1_neighborhood,Percent ages 65+,0.0678,Age,map,.0%,5,5
+Upper East Side,Bridgeport,1_neighborhood,Percent ages 65+,0.121,Age,map,.0%,5,5
+West End-West Side,Bridgeport,1_neighborhood,Percent ages 65+,0.0807,Age,map,.0%,5,5
+Bridgeport,Bridgeport,2_city,Percent ages 65+,0.103,Age,map,.0%,5,5
+Fairfield County,Bridgeport,3_county,Percent ages 65+,0.144,Age,map,.0%,5,5
+Connecticut,Bridgeport,4_state,Percent ages 65+,0.155,Age,map,.0%,5,5
+Black Rock,Bridgeport,1_neighborhood,Total population,8284,Race and ethnicity,table,",",1,6
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Total population,23625,Race and ethnicity,table,",",1,6
+Downtown,Bridgeport,1_neighborhood,Total population,3735,Race and ethnicity,table,",",1,6
+East End,Bridgeport,1_neighborhood,Total population,9310,Race and ethnicity,table,",",1,6
+East Side,Bridgeport,1_neighborhood,Total population,13808,Race and ethnicity,table,",",1,6
+Enterprise,Bridgeport,1_neighborhood,Total population,728,Race and ethnicity,table,",",1,6
+Hollow,Bridgeport,1_neighborhood,Total population,7280,Race and ethnicity,table,",",1,6
+Mill Hill,Bridgeport,1_neighborhood,Total population,12776,Race and ethnicity,table,",",1,6
+North End,Bridgeport,1_neighborhood,Total population,24131,Race and ethnicity,table,",",1,6
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Total population,8739,Race and ethnicity,table,",",1,6
+South End,Bridgeport,1_neighborhood,Total population,3474,Race and ethnicity,table,",",1,6
+Upper East Side,Bridgeport,1_neighborhood,Total population,9492,Race and ethnicity,table,",",1,6
+West End-West Side,Bridgeport,1_neighborhood,Total population,21640,Race and ethnicity,table,",",1,6
+Bridgeport,Bridgeport,2_city,Total population,147022,Race and ethnicity,table,",",1,6
+Fairfield County,Bridgeport,3_county,Total population,941618,Race and ethnicity,table,",",1,6
+Connecticut,Bridgeport,4_state,Total population,3588570,Race and ethnicity,table,",",1,6
+Black Rock,Bridgeport,1_neighborhood,Latino population,1698,Race and ethnicity,table,",",2,7
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Latino population,9171,Race and ethnicity,table,",",2,7
+Downtown,Bridgeport,1_neighborhood,Latino population,1690,Race and ethnicity,table,",",2,7
+East End,Bridgeport,1_neighborhood,Latino population,3877,Race and ethnicity,table,",",2,7
+East Side,Bridgeport,1_neighborhood,Latino population,8198,Race and ethnicity,table,",",2,7
+Enterprise,Bridgeport,1_neighborhood,Latino population,270,Race and ethnicity,table,",",2,7
+Hollow,Bridgeport,1_neighborhood,Latino population,3625,Race and ethnicity,table,",",2,7
+Mill Hill,Bridgeport,1_neighborhood,Latino population,5004,Race and ethnicity,table,",",2,7
+North End,Bridgeport,1_neighborhood,Latino population,6564,Race and ethnicity,table,",",2,7
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Latino population,2615,Race and ethnicity,table,",",2,7
+South End,Bridgeport,1_neighborhood,Latino population,1023,Race and ethnicity,table,",",2,7
+Upper East Side,Bridgeport,1_neighborhood,Latino population,3852,Race and ethnicity,table,",",2,7
+West End-West Side,Bridgeport,1_neighborhood,Latino population,10101,Race and ethnicity,table,",",2,7
+Bridgeport,Bridgeport,2_city,Latino population,57688,Race and ethnicity,table,",",2,7
+Fairfield County,Bridgeport,3_county,Latino population,175480,Race and ethnicity,table,",",2,7
+Connecticut,Bridgeport,4_state,Latino population,537728,Race and ethnicity,table,",",2,7
+Black Rock,Bridgeport,1_neighborhood,Percent Latino,0.205,Race and ethnicity,map,.0%,3,8
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Percent Latino,0.388,Race and ethnicity,map,.0%,3,8
+Downtown,Bridgeport,1_neighborhood,Percent Latino,0.453,Race and ethnicity,map,.0%,3,8
+East End,Bridgeport,1_neighborhood,Percent Latino,0.416,Race and ethnicity,map,.0%,3,8
+East Side,Bridgeport,1_neighborhood,Percent Latino,0.594,Race and ethnicity,map,.0%,3,8
+Enterprise,Bridgeport,1_neighborhood,Percent Latino,0.37,Race and ethnicity,map,.0%,3,8
+Hollow,Bridgeport,1_neighborhood,Percent Latino,0.498,Race and ethnicity,map,.0%,3,8
+Mill Hill,Bridgeport,1_neighborhood,Percent Latino,0.392,Race and ethnicity,map,.0%,3,8
+North End,Bridgeport,1_neighborhood,Percent Latino,0.272,Race and ethnicity,map,.0%,3,8
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Percent Latino,0.299,Race and ethnicity,map,.0%,3,8
+South End,Bridgeport,1_neighborhood,Percent Latino,0.294,Race and ethnicity,map,.0%,3,8
+Upper East Side,Bridgeport,1_neighborhood,Percent Latino,0.406,Race and ethnicity,map,.0%,3,8
+West End-West Side,Bridgeport,1_neighborhood,Percent Latino,0.467,Race and ethnicity,map,.0%,3,8
+Bridgeport,Bridgeport,2_city,Percent Latino,0.392,Race and ethnicity,map,.0%,3,8
+Fairfield County,Bridgeport,3_county,Percent Latino,0.186,Race and ethnicity,map,.0%,3,8
+Connecticut,Bridgeport,4_state,Percent Latino,0.15,Race and ethnicity,map,.0%,3,8
+Black Rock,Bridgeport,1_neighborhood,White population,4752,Race and ethnicity,table,",",4,9
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,White population,6518,Race and ethnicity,table,",",4,9
+Downtown,Bridgeport,1_neighborhood,White population,595,Race and ethnicity,table,",",4,9
+East End,Bridgeport,1_neighborhood,White population,506,Race and ethnicity,table,",",4,9
+East Side,Bridgeport,1_neighborhood,White population,266,Race and ethnicity,table,",",4,9
+Enterprise,Bridgeport,1_neighborhood,White population,123,Race and ethnicity,table,",",4,9
+Hollow,Bridgeport,1_neighborhood,White population,1242,Race and ethnicity,table,",",4,9
+Mill Hill,Bridgeport,1_neighborhood,White population,1928,Race and ethnicity,table,",",4,9
+North End,Bridgeport,1_neighborhood,White population,9720,Race and ethnicity,table,",",4,9
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,White population,1136,Race and ethnicity,table,",",4,9
+South End,Bridgeport,1_neighborhood,White population,965,Race and ethnicity,table,",",4,9
+Upper East Side,Bridgeport,1_neighborhood,White population,1769,Race and ethnicity,table,",",4,9
+West End-West Side,Bridgeport,1_neighborhood,White population,2421,Race and ethnicity,table,",",4,9
+Bridgeport,Bridgeport,2_city,White population,31942,Race and ethnicity,table,",",4,9
+Fairfield County,Bridgeport,3_county,White population,598017,Race and ethnicity,table,",",4,9
+Connecticut,Bridgeport,4_state,White population,2464450,Race and ethnicity,table,",",4,9
+Black Rock,Bridgeport,1_neighborhood,Percent white,0.574,Race and ethnicity,map,.0%,5,10
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Percent white,0.276,Race and ethnicity,map,.0%,5,10
+Downtown,Bridgeport,1_neighborhood,Percent white,0.159,Race and ethnicity,map,.0%,5,10
+East End,Bridgeport,1_neighborhood,Percent white,0.0544,Race and ethnicity,map,.0%,5,10
+East Side,Bridgeport,1_neighborhood,Percent white,0.0193,Race and ethnicity,map,.0%,5,10
+Enterprise,Bridgeport,1_neighborhood,Percent white,0.169,Race and ethnicity,map,.0%,5,10
+Hollow,Bridgeport,1_neighborhood,Percent white,0.171,Race and ethnicity,map,.0%,5,10
+Mill Hill,Bridgeport,1_neighborhood,Percent white,0.151,Race and ethnicity,map,.0%,5,10
+North End,Bridgeport,1_neighborhood,Percent white,0.403,Race and ethnicity,map,.0%,5,10
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Percent white,0.13,Race and ethnicity,map,.0%,5,10
+South End,Bridgeport,1_neighborhood,Percent white,0.278,Race and ethnicity,map,.0%,5,10
+Upper East Side,Bridgeport,1_neighborhood,Percent white,0.186,Race and ethnicity,map,.0%,5,10
+West End-West Side,Bridgeport,1_neighborhood,Percent white,0.112,Race and ethnicity,map,.0%,5,10
+Bridgeport,Bridgeport,2_city,Percent white,0.217,Race and ethnicity,map,.0%,5,10
+Fairfield County,Bridgeport,3_county,Percent white,0.635,Race and ethnicity,map,.0%,5,10
+Connecticut,Bridgeport,4_state,Percent white,0.687,Race and ethnicity,map,.0%,5,10
+Black Rock,Bridgeport,1_neighborhood,Black population,1383,Race and ethnicity,table,",",6,11
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Black population,6246,Race and ethnicity,table,",",6,11
+Downtown,Bridgeport,1_neighborhood,Black population,1209,Race and ethnicity,table,",",6,11
+East End,Bridgeport,1_neighborhood,Black population,4560,Race and ethnicity,table,",",6,11
+East Side,Bridgeport,1_neighborhood,Black population,4734,Race and ethnicity,table,",",6,11
+Enterprise,Bridgeport,1_neighborhood,Black population,272,Race and ethnicity,table,",",6,11
+Hollow,Bridgeport,1_neighborhood,Black population,1921,Race and ethnicity,table,",",6,11
+Mill Hill,Bridgeport,1_neighborhood,Black population,5078,Race and ethnicity,table,",",6,11
+North End,Bridgeport,1_neighborhood,Black population,6565,Race and ethnicity,table,",",6,11
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Black population,4495,Race and ethnicity,table,",",6,11
+South End,Bridgeport,1_neighborhood,Black population,844,Race and ethnicity,table,",",6,11
+Upper East Side,Bridgeport,1_neighborhood,Black population,3401,Race and ethnicity,table,",",6,11
+West End-West Side,Bridgeport,1_neighborhood,Black population,7808,Race and ethnicity,table,",",6,11
+Bridgeport,Bridgeport,2_city,Black population,48518,Race and ethnicity,table,",",6,11
+Fairfield County,Bridgeport,3_county,Black population,98457,Race and ethnicity,table,",",6,11
+Connecticut,Bridgeport,4_state,Black population,347674,Race and ethnicity,table,",",6,11
+Black Rock,Bridgeport,1_neighborhood,Percent black,0.167,Race and ethnicity,map,.0%,7,12
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Percent black,0.264,Race and ethnicity,map,.0%,7,12
+Downtown,Bridgeport,1_neighborhood,Percent black,0.324,Race and ethnicity,map,.0%,7,12
+East End,Bridgeport,1_neighborhood,Percent black,0.49,Race and ethnicity,map,.0%,7,12
+East Side,Bridgeport,1_neighborhood,Percent black,0.343,Race and ethnicity,map,.0%,7,12
+Enterprise,Bridgeport,1_neighborhood,Percent black,0.374,Race and ethnicity,map,.0%,7,12
+Hollow,Bridgeport,1_neighborhood,Percent black,0.264,Race and ethnicity,map,.0%,7,12
+Mill Hill,Bridgeport,1_neighborhood,Percent black,0.397,Race and ethnicity,map,.0%,7,12
+North End,Bridgeport,1_neighborhood,Percent black,0.272,Race and ethnicity,map,.0%,7,12
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Percent black,0.514,Race and ethnicity,map,.0%,7,12
+South End,Bridgeport,1_neighborhood,Percent black,0.243,Race and ethnicity,map,.0%,7,12
+Upper East Side,Bridgeport,1_neighborhood,Percent black,0.358,Race and ethnicity,map,.0%,7,12
+West End-West Side,Bridgeport,1_neighborhood,Percent black,0.361,Race and ethnicity,map,.0%,7,12
+Bridgeport,Bridgeport,2_city,Percent black,0.33,Race and ethnicity,map,.0%,7,12
+Fairfield County,Bridgeport,3_county,Percent black,0.105,Race and ethnicity,map,.0%,7,12
+Connecticut,Bridgeport,4_state,Percent black,0.0969,Race and ethnicity,map,.0%,7,12
+Black Rock,Bridgeport,1_neighborhood,Other race population,451,Race and ethnicity,table,",",8,13
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Other race population,1690,Race and ethnicity,table,",",8,13
+Downtown,Bridgeport,1_neighborhood,Other race population,240,Race and ethnicity,table,",",8,13
+East End,Bridgeport,1_neighborhood,Other race population,366,Race and ethnicity,table,",",8,13
+East Side,Bridgeport,1_neighborhood,Other race population,610,Race and ethnicity,table,",",8,13
+Enterprise,Bridgeport,1_neighborhood,Other race population,63,Race and ethnicity,table,",",8,13
+Hollow,Bridgeport,1_neighborhood,Other race population,492,Race and ethnicity,table,",",8,13
+Mill Hill,Bridgeport,1_neighborhood,Other race population,766,Race and ethnicity,table,",",8,13
+North End,Bridgeport,1_neighborhood,Other race population,1281,Race and ethnicity,table,",",8,13
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Other race population,494,Race and ethnicity,table,",",8,13
+South End,Bridgeport,1_neighborhood,Other race population,642,Race and ethnicity,table,",",8,13
+Upper East Side,Bridgeport,1_neighborhood,Other race population,469,Race and ethnicity,table,",",8,13
+West End-West Side,Bridgeport,1_neighborhood,Other race population,1309,Race and ethnicity,table,",",8,13
+Bridgeport,Bridgeport,2_city,Other race population,8874,Race and ethnicity,table,",",8,13
+Fairfield County,Bridgeport,3_county,Other race population,69664,Race and ethnicity,table,",",8,13
+Connecticut,Bridgeport,4_state,Other race population,238718,Race and ethnicity,table,",",8,13
+Black Rock,Bridgeport,1_neighborhood,Percent other race,0.0544,Race and ethnicity,map,.0%,9,14
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Percent other race,0.0715,Race and ethnicity,map,.0%,9,14
+Downtown,Bridgeport,1_neighborhood,Percent other race,0.0644,Race and ethnicity,map,.0%,9,14
+East End,Bridgeport,1_neighborhood,Percent other race,0.0393,Race and ethnicity,map,.0%,9,14
+East Side,Bridgeport,1_neighborhood,Percent other race,0.0442,Race and ethnicity,map,.0%,9,14
+Enterprise,Bridgeport,1_neighborhood,Percent other race,0.0868,Race and ethnicity,map,.0%,9,14
+Hollow,Bridgeport,1_neighborhood,Percent other race,0.0675,Race and ethnicity,map,.0%,9,14
+Mill Hill,Bridgeport,1_neighborhood,Percent other race,0.06,Race and ethnicity,map,.0%,9,14
+North End,Bridgeport,1_neighborhood,Percent other race,0.0531,Race and ethnicity,map,.0%,9,14
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Percent other race,0.0565,Race and ethnicity,map,.0%,9,14
+South End,Bridgeport,1_neighborhood,Percent other race,0.185,Race and ethnicity,map,.0%,9,14
+Upper East Side,Bridgeport,1_neighborhood,Percent other race,0.0494,Race and ethnicity,map,.0%,9,14
+West End-West Side,Bridgeport,1_neighborhood,Percent other race,0.0605,Race and ethnicity,map,.0%,9,14
+Bridgeport,Bridgeport,2_city,Percent other race,0.0604,Race and ethnicity,map,.0%,9,14
+Fairfield County,Bridgeport,3_county,Percent other race,0.074,Race and ethnicity,map,.0%,9,14
+Connecticut,Bridgeport,4_state,Percent other race,0.0665,Race and ethnicity,map,.0%,9,14
+Black Rock,Bridgeport,1_neighborhood,Total households,3694,Households,table,",",1,15
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Total households,8131,Households,table,",",1,15
+Downtown,Bridgeport,1_neighborhood,Total households,1642,Households,table,",",1,15
+East End,Bridgeport,1_neighborhood,Total households,3051,Households,table,",",1,15
+East Side,Bridgeport,1_neighborhood,Total households,4343,Households,table,",",1,15
+Enterprise,Bridgeport,1_neighborhood,Total households,270,Households,table,",",1,15
+Hollow,Bridgeport,1_neighborhood,Total households,2261,Households,table,",",1,15
+Mill Hill,Bridgeport,1_neighborhood,Total households,4830,Households,table,",",1,15
+North End,Bridgeport,1_neighborhood,Total households,8097,Households,table,",",1,15
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Total households,2779,Households,table,",",1,15
+South End,Bridgeport,1_neighborhood,Total households,1192,Households,table,",",1,15
+Upper East Side,Bridgeport,1_neighborhood,Total households,3270,Households,table,",",1,15
+West End-West Side,Bridgeport,1_neighborhood,Total households,6798,Households,table,",",1,15
+Bridgeport,Bridgeport,2_city,Total households,50357,Households,table,",",1,15
+Fairfield County,Bridgeport,3_county,Total households,335209,Households,table,",",1,15
+Connecticut,Bridgeport,4_state,Total households,1354713,Households,table,",",1,15
+Black Rock,Bridgeport,1_neighborhood,Owner-occupied households,1259,Households,table,",",2,16
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Owner-occupied households,3497,Households,table,",",2,16
+Downtown,Bridgeport,1_neighborhood,Owner-occupied households,109,Households,table,",",2,16
+East End,Bridgeport,1_neighborhood,Owner-occupied households,914,Households,table,",",2,16
+East Side,Bridgeport,1_neighborhood,Owner-occupied households,921,Households,table,",",2,16
+Enterprise,Bridgeport,1_neighborhood,Owner-occupied households,87,Households,table,",",2,16
+Hollow,Bridgeport,1_neighborhood,Owner-occupied households,367,Households,table,",",2,16
+Mill Hill,Bridgeport,1_neighborhood,Owner-occupied households,2209,Households,table,",",2,16
+North End,Bridgeport,1_neighborhood,Owner-occupied households,5600,Households,table,",",2,16
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Owner-occupied households,1911,Households,table,",",2,16
+South End,Bridgeport,1_neighborhood,Owner-occupied households,324,Households,table,",",2,16
+Upper East Side,Bridgeport,1_neighborhood,Owner-occupied households,1616,Households,table,",",2,16
+West End-West Side,Bridgeport,1_neighborhood,Owner-occupied households,1843,Households,table,",",2,16
+Bridgeport,Bridgeport,2_city,Owner-occupied households,20657,Households,table,",",2,16
+Fairfield County,Bridgeport,3_county,Owner-occupied households,226707,Households,table,",",2,16
+Connecticut,Bridgeport,4_state,Owner-occupied households,900223,Households,table,",",2,16
+Black Rock,Bridgeport,1_neighborhood,Homeownership rate,0.341,Households,map,.0%,3,17
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Homeownership rate,0.43,Households,map,.0%,3,17
+Downtown,Bridgeport,1_neighborhood,Homeownership rate,0.0665,Households,map,.0%,3,17
+East End,Bridgeport,1_neighborhood,Homeownership rate,0.3,Households,map,.0%,3,17
+East Side,Bridgeport,1_neighborhood,Homeownership rate,0.212,Households,map,.0%,3,17
+Enterprise,Bridgeport,1_neighborhood,Homeownership rate,0.321,Households,map,.0%,3,17
+Hollow,Bridgeport,1_neighborhood,Homeownership rate,0.162,Households,map,.0%,3,17
+Mill Hill,Bridgeport,1_neighborhood,Homeownership rate,0.457,Households,map,.0%,3,17
+North End,Bridgeport,1_neighborhood,Homeownership rate,0.692,Households,map,.0%,3,17
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Homeownership rate,0.688,Households,map,.0%,3,17
+South End,Bridgeport,1_neighborhood,Homeownership rate,0.272,Households,map,.0%,3,17
+Upper East Side,Bridgeport,1_neighborhood,Homeownership rate,0.494,Households,map,.0%,3,17
+West End-West Side,Bridgeport,1_neighborhood,Homeownership rate,0.271,Households,map,.0%,3,17
+Bridgeport,Bridgeport,2_city,Homeownership rate,0.41,Households,map,.0%,3,17
+Fairfield County,Bridgeport,3_county,Homeownership rate,0.676,Households,map,.0%,3,17
+Connecticut,Bridgeport,4_state,Homeownership rate,0.665,Households,map,.0%,3,17
+Black Rock,Bridgeport,1_neighborhood,Poverty status known,8284,Income,table,",",1,18
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Poverty status known,22624,Income,table,",",1,18
+Downtown,Bridgeport,1_neighborhood,Poverty status known,3455,Income,table,",",1,18
+East End,Bridgeport,1_neighborhood,Poverty status known,9234,Income,table,",",1,18
+East Side,Bridgeport,1_neighborhood,Poverty status known,13647,Income,table,",",1,18
+Enterprise,Bridgeport,1_neighborhood,Poverty status known,726,Income,table,",",1,18
+Hollow,Bridgeport,1_neighborhood,Poverty status known,7256,Income,table,",",1,18
+Mill Hill,Bridgeport,1_neighborhood,Poverty status known,12306,Income,table,",",1,18
+North End,Bridgeport,1_neighborhood,Poverty status known,22821,Income,table,",",1,18
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Poverty status known,8694,Income,table,",",1,18
+South End,Bridgeport,1_neighborhood,Poverty status known,2778,Income,table,",",1,18
+Upper East Side,Bridgeport,1_neighborhood,Poverty status known,9127,Income,table,",",1,18
+West End-West Side,Bridgeport,1_neighborhood,Poverty status known,21270,Income,table,",",1,18
+Bridgeport,Bridgeport,2_city,Poverty status known,142221,Income,table,",",1,18
+Fairfield County,Bridgeport,3_county,Poverty status known,923385,Income,table,",",1,18
+Connecticut,Bridgeport,4_state,Poverty status known,3479672,Income,table,",",1,18
+Black Rock,Bridgeport,1_neighborhood,Population in poverty,1184,Income,table,",",2,19
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Population in poverty,3759,Income,table,",",2,19
+Downtown,Bridgeport,1_neighborhood,Population in poverty,1550,Income,table,",",2,19
+East End,Bridgeport,1_neighborhood,Population in poverty,2619,Income,table,",",2,19
+East Side,Bridgeport,1_neighborhood,Population in poverty,4448,Income,table,",",2,19
+Enterprise,Bridgeport,1_neighborhood,Population in poverty,159,Income,table,",",2,19
+Hollow,Bridgeport,1_neighborhood,Population in poverty,2808,Income,table,",",2,19
+Mill Hill,Bridgeport,1_neighborhood,Population in poverty,2460,Income,table,",",2,19
+North End,Bridgeport,1_neighborhood,Population in poverty,2492,Income,table,",",2,19
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Population in poverty,1164,Income,table,",",2,19
+South End,Bridgeport,1_neighborhood,Population in poverty,1082,Income,table,",",2,19
+Upper East Side,Bridgeport,1_neighborhood,Population in poverty,1584,Income,table,",",2,19
+West End-West Side,Bridgeport,1_neighborhood,Population in poverty,6144,Income,table,",",2,19
+Bridgeport,Bridgeport,2_city,Population in poverty,31453,Income,table,",",2,19
+Fairfield County,Bridgeport,3_county,Population in poverty,81553,Income,table,",",2,19
+Connecticut,Bridgeport,4_state,Population in poverty,360464,Income,table,",",2,19
+Black Rock,Bridgeport,1_neighborhood,Poverty rate,0.143,Income,map,.0%,3,20
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Poverty rate,0.166,Income,map,.0%,3,20
+Downtown,Bridgeport,1_neighborhood,Poverty rate,0.449,Income,map,.0%,3,20
+East End,Bridgeport,1_neighborhood,Poverty rate,0.284,Income,map,.0%,3,20
+East Side,Bridgeport,1_neighborhood,Poverty rate,0.326,Income,map,.0%,3,20
+Enterprise,Bridgeport,1_neighborhood,Poverty rate,0.219,Income,map,.0%,3,20
+Hollow,Bridgeport,1_neighborhood,Poverty rate,0.387,Income,map,.0%,3,20
+Mill Hill,Bridgeport,1_neighborhood,Poverty rate,0.2,Income,map,.0%,3,20
+North End,Bridgeport,1_neighborhood,Poverty rate,0.109,Income,map,.0%,3,20
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Poverty rate,0.134,Income,map,.0%,3,20
+South End,Bridgeport,1_neighborhood,Poverty rate,0.389,Income,map,.0%,3,20
+Upper East Side,Bridgeport,1_neighborhood,Poverty rate,0.174,Income,map,.0%,3,20
+West End-West Side,Bridgeport,1_neighborhood,Poverty rate,0.289,Income,map,.0%,3,20
+Bridgeport,Bridgeport,2_city,Poverty rate,0.221,Income,map,.0%,3,20
+Fairfield County,Bridgeport,3_county,Poverty rate,0.0883,Income,map,.0%,3,20
+Connecticut,Bridgeport,4_state,Poverty rate,0.104,Income,map,.0%,3,20
+Black Rock,Bridgeport,1_neighborhood,Low-income population,2641,Income,table,",",4,21
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Low-income population,9021,Income,table,",",4,21
+Downtown,Bridgeport,1_neighborhood,Low-income population,2400,Income,table,",",4,21
+East End,Bridgeport,1_neighborhood,Low-income population,5639,Income,table,",",4,21
+East Side,Bridgeport,1_neighborhood,Low-income population,8461,Income,table,",",4,21
+Enterprise,Bridgeport,1_neighborhood,Low-income population,409,Income,table,",",4,21
+Hollow,Bridgeport,1_neighborhood,Low-income population,4597,Income,table,",",4,21
+Mill Hill,Bridgeport,1_neighborhood,Low-income population,5743,Income,table,",",4,21
+North End,Bridgeport,1_neighborhood,Low-income population,6535,Income,table,",",4,21
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Low-income population,3320,Income,table,",",4,21
+South End,Bridgeport,1_neighborhood,Low-income population,2068,Income,table,",",4,21
+Upper East Side,Bridgeport,1_neighborhood,Low-income population,3710,Income,table,",",4,21
+West End-West Side,Bridgeport,1_neighborhood,Low-income population,11816,Income,table,",",4,21
+Bridgeport,Bridgeport,2_city,Low-income population,66360,Income,table,",",4,21
+Fairfield County,Bridgeport,3_county,Low-income population,196117,Income,table,",",4,21
+Connecticut,Bridgeport,4_state,Low-income population,812120,Income,table,",",4,21
+Black Rock,Bridgeport,1_neighborhood,Low-income rate,0.319,Income,map,.0%,5,22
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Low-income rate,0.399,Income,map,.0%,5,22
+Downtown,Bridgeport,1_neighborhood,Low-income rate,0.695,Income,map,.0%,5,22
+East End,Bridgeport,1_neighborhood,Low-income rate,0.611,Income,map,.0%,5,22
+East Side,Bridgeport,1_neighborhood,Low-income rate,0.62,Income,map,.0%,5,22
+Enterprise,Bridgeport,1_neighborhood,Low-income rate,0.563,Income,map,.0%,5,22
+Hollow,Bridgeport,1_neighborhood,Low-income rate,0.634,Income,map,.0%,5,22
+Mill Hill,Bridgeport,1_neighborhood,Low-income rate,0.467,Income,map,.0%,5,22
+North End,Bridgeport,1_neighborhood,Low-income rate,0.286,Income,map,.0%,5,22
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Low-income rate,0.382,Income,map,.0%,5,22
+South End,Bridgeport,1_neighborhood,Low-income rate,0.744,Income,map,.0%,5,22
+Upper East Side,Bridgeport,1_neighborhood,Low-income rate,0.407,Income,map,.0%,5,22
+West End-West Side,Bridgeport,1_neighborhood,Low-income rate,0.556,Income,map,.0%,5,22
+Bridgeport,Bridgeport,2_city,Low-income rate,0.467,Income,map,.0%,5,22
+Fairfield County,Bridgeport,3_county,Low-income rate,0.212,Income,map,.0%,5,22
+Connecticut,Bridgeport,4_state,Low-income rate,0.233,Income,map,.0%,5,22
+Black Rock,Bridgeport,1_neighborhood,Total population,8284,Immigration,table,",",1,23
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Total population,23625,Immigration,table,",",1,23
+Downtown,Bridgeport,1_neighborhood,Total population,3735,Immigration,table,",",1,23
+East End,Bridgeport,1_neighborhood,Total population,9310,Immigration,table,",",1,23
+East Side,Bridgeport,1_neighborhood,Total population,13808,Immigration,table,",",1,23
+Enterprise,Bridgeport,1_neighborhood,Total population,728,Immigration,table,",",1,23
+Hollow,Bridgeport,1_neighborhood,Total population,7280,Immigration,table,",",1,23
+Mill Hill,Bridgeport,1_neighborhood,Total population,12776,Immigration,table,",",1,23
+North End,Bridgeport,1_neighborhood,Total population,24131,Immigration,table,",",1,23
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Total population,8739,Immigration,table,",",1,23
+South End,Bridgeport,1_neighborhood,Total population,3474,Immigration,table,",",1,23
+Upper East Side,Bridgeport,1_neighborhood,Total population,9492,Immigration,table,",",1,23
+West End-West Side,Bridgeport,1_neighborhood,Total population,21640,Immigration,table,",",1,23
+Bridgeport,Bridgeport,2_city,Total population,147022,Immigration,table,",",1,23
+Fairfield County,Bridgeport,3_county,Total population,941618,Immigration,table,",",1,23
+Connecticut,Bridgeport,4_state,Total population,3588570,Immigration,table,",",1,23
+Black Rock,Bridgeport,1_neighborhood,Foreign-born population,1901,Immigration,table,",",2,24
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Foreign-born population,8632,Immigration,table,",",2,24
+Downtown,Bridgeport,1_neighborhood,Foreign-born population,790,Immigration,table,",",2,24
+East End,Bridgeport,1_neighborhood,Foreign-born population,1862,Immigration,table,",",2,24
+East Side,Bridgeport,1_neighborhood,Foreign-born population,3309,Immigration,table,",",2,24
+Enterprise,Bridgeport,1_neighborhood,Foreign-born population,296,Immigration,table,",",2,24
+Hollow,Bridgeport,1_neighborhood,Foreign-born population,2573,Immigration,table,",",2,24
+Mill Hill,Bridgeport,1_neighborhood,Foreign-born population,3347,Immigration,table,",",2,24
+North End,Bridgeport,1_neighborhood,Foreign-born population,7515,Immigration,table,",",2,24
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Foreign-born population,2275,Immigration,table,",",2,24
+South End,Bridgeport,1_neighborhood,Foreign-born population,1013,Immigration,table,",",2,24
+Upper East Side,Bridgeport,1_neighborhood,Foreign-born population,2328,Immigration,table,",",2,24
+West End-West Side,Bridgeport,1_neighborhood,Foreign-born population,6362,Immigration,table,",",2,24
+Bridgeport,Bridgeport,2_city,Foreign-born population,42204,Immigration,table,",",2,24
+Fairfield County,Bridgeport,3_county,Foreign-born population,199191,Immigration,table,",",2,24
+Connecticut,Bridgeport,4_state,Foreign-born population,503209,Immigration,table,",",2,24
+Black Rock,Bridgeport,1_neighborhood,Percent foreign-born,0.229,Immigration,map,.0%,3,25
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Percent foreign-born,0.365,Immigration,map,.0%,3,25
+Downtown,Bridgeport,1_neighborhood,Percent foreign-born,0.212,Immigration,map,.0%,3,25
+East End,Bridgeport,1_neighborhood,Percent foreign-born,0.2,Immigration,map,.0%,3,25
+East Side,Bridgeport,1_neighborhood,Percent foreign-born,0.24,Immigration,map,.0%,3,25
+Enterprise,Bridgeport,1_neighborhood,Percent foreign-born,0.406,Immigration,map,.0%,3,25
+Hollow,Bridgeport,1_neighborhood,Percent foreign-born,0.353,Immigration,map,.0%,3,25
+Mill Hill,Bridgeport,1_neighborhood,Percent foreign-born,0.262,Immigration,map,.0%,3,25
+North End,Bridgeport,1_neighborhood,Percent foreign-born,0.311,Immigration,map,.0%,3,25
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Percent foreign-born,0.26,Immigration,map,.0%,3,25
+South End,Bridgeport,1_neighborhood,Percent foreign-born,0.292,Immigration,map,.0%,3,25
+Upper East Side,Bridgeport,1_neighborhood,Percent foreign-born,0.245,Immigration,map,.0%,3,25
+West End-West Side,Bridgeport,1_neighborhood,Percent foreign-born,0.294,Immigration,map,.0%,3,25
+Bridgeport,Bridgeport,2_city,Percent foreign-born,0.287,Immigration,map,.0%,3,25
+Fairfield County,Bridgeport,3_county,Percent foreign-born,0.212,Immigration,map,.0%,3,25
+Connecticut,Bridgeport,4_state,Percent foreign-born,0.14,Immigration,map,.0%,3,25
+Black Rock,Bridgeport,1_neighborhood,"Under 18, poverty status known",1471,Income by age: children,table,",",1,26
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,"Under 18, poverty status known",5110,Income by age: children,table,",",1,26
+Downtown,Bridgeport,1_neighborhood,"Under 18, poverty status known",744,Income by age: children,table,",",1,26
+East End,Bridgeport,1_neighborhood,"Under 18, poverty status known",2627,Income by age: children,table,",",1,26
+East Side,Bridgeport,1_neighborhood,"Under 18, poverty status known",4292,Income by age: children,table,",",1,26
+Enterprise,Bridgeport,1_neighborhood,"Under 18, poverty status known",196,Income by age: children,table,",",1,26
+Hollow,Bridgeport,1_neighborhood,"Under 18, poverty status known",2056,Income by age: children,table,",",1,26
+Mill Hill,Bridgeport,1_neighborhood,"Under 18, poverty status known",2881,Income by age: children,table,",",1,26
+North End,Bridgeport,1_neighborhood,"Under 18, poverty status known",4633,Income by age: children,table,",",1,26
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,"Under 18, poverty status known",2214,Income by age: children,table,",",1,26
+South End,Bridgeport,1_neighborhood,"Under 18, poverty status known",576,Income by age: children,table,",",1,26
+Upper East Side,Bridgeport,1_neighborhood,"Under 18, poverty status known",2360,Income by age: children,table,",",1,26
+West End-West Side,Bridgeport,1_neighborhood,"Under 18, poverty status known",5865,Income by age: children,table,",",1,26
+Bridgeport,Bridgeport,2_city,"Under 18, poverty status known",35025,Income by age: children,table,",",1,26
+Fairfield County,Bridgeport,3_county,"Under 18, poverty status known",219170,Income by age: children,table,",",1,26
+Connecticut,Bridgeport,4_state,"Under 18, poverty status known",763850,Income by age: children,table,",",1,26
+Black Rock,Bridgeport,1_neighborhood,Children in poverty,355,Income by age: children,table,",",2,27
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Children in poverty,1402,Income by age: children,table,",",2,27
+Downtown,Bridgeport,1_neighborhood,Children in poverty,484,Income by age: children,table,",",2,27
+East End,Bridgeport,1_neighborhood,Children in poverty,947,Income by age: children,table,",",2,27
+East Side,Bridgeport,1_neighborhood,Children in poverty,1769,Income by age: children,table,",",2,27
+Enterprise,Bridgeport,1_neighborhood,Children in poverty,59,Income by age: children,table,",",2,27
+Hollow,Bridgeport,1_neighborhood,Children in poverty,1234,Income by age: children,table,",",2,27
+Mill Hill,Bridgeport,1_neighborhood,Children in poverty,740,Income by age: children,table,",",2,27
+North End,Bridgeport,1_neighborhood,Children in poverty,567,Income by age: children,table,",",2,27
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Children in poverty,495,Income by age: children,table,",",2,27
+South End,Bridgeport,1_neighborhood,Children in poverty,254,Income by age: children,table,",",2,27
+Upper East Side,Bridgeport,1_neighborhood,Children in poverty,637,Income by age: children,table,",",2,27
+West End-West Side,Bridgeport,1_neighborhood,Children in poverty,2580,Income by age: children,table,",",2,27
+Bridgeport,Bridgeport,2_city,Children in poverty,11524,Income by age: children,table,",",2,27
+Fairfield County,Bridgeport,3_county,Children in poverty,23736,Income by age: children,table,",",2,27
+Connecticut,Bridgeport,4_state,Children in poverty,107690,Income by age: children,table,",",2,27
+Black Rock,Bridgeport,1_neighborhood,Child poverty rate,0.242,Income by age: children,map,.0%,3,28
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Child poverty rate,0.274,Income by age: children,map,.0%,3,28
+Downtown,Bridgeport,1_neighborhood,Child poverty rate,0.65,Income by age: children,map,.0%,3,28
+East End,Bridgeport,1_neighborhood,Child poverty rate,0.36,Income by age: children,map,.0%,3,28
+East Side,Bridgeport,1_neighborhood,Child poverty rate,0.412,Income by age: children,map,.0%,3,28
+Enterprise,Bridgeport,1_neighborhood,Child poverty rate,0.299,Income by age: children,map,.0%,3,28
+Hollow,Bridgeport,1_neighborhood,Child poverty rate,0.6,Income by age: children,map,.0%,3,28
+Mill Hill,Bridgeport,1_neighborhood,Child poverty rate,0.257,Income by age: children,map,.0%,3,28
+North End,Bridgeport,1_neighborhood,Child poverty rate,0.122,Income by age: children,map,.0%,3,28
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Child poverty rate,0.224,Income by age: children,map,.0%,3,28
+South End,Bridgeport,1_neighborhood,Child poverty rate,0.442,Income by age: children,map,.0%,3,28
+Upper East Side,Bridgeport,1_neighborhood,Child poverty rate,0.27,Income by age: children,map,.0%,3,28
+West End-West Side,Bridgeport,1_neighborhood,Child poverty rate,0.44,Income by age: children,map,.0%,3,28
+Bridgeport,Bridgeport,2_city,Child poverty rate,0.329,Income by age: children,map,.0%,3,28
+Fairfield County,Bridgeport,3_county,Child poverty rate,0.108,Income by age: children,map,.0%,3,28
+Connecticut,Bridgeport,4_state,Child poverty rate,0.141,Income by age: children,map,.0%,3,28
+Black Rock,Bridgeport,1_neighborhood,Low-income children,842,Income by age: children,table,",",4,29
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Low-income children,3080,Income by age: children,table,",",4,29
+Downtown,Bridgeport,1_neighborhood,Low-income children,636,Income by age: children,table,",",4,29
+East End,Bridgeport,1_neighborhood,Low-income children,2134,Income by age: children,table,",",4,29
+East Side,Bridgeport,1_neighborhood,Low-income children,3186,Income by age: children,table,",",4,29
+Enterprise,Bridgeport,1_neighborhood,Low-income children,159,Income by age: children,table,",",4,29
+Hollow,Bridgeport,1_neighborhood,Low-income children,1666,Income by age: children,table,",",4,29
+Mill Hill,Bridgeport,1_neighborhood,Low-income children,1738,Income by age: children,table,",",4,29
+North End,Bridgeport,1_neighborhood,Low-income children,1737,Income by age: children,table,",",4,29
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Low-income children,1302,Income by age: children,table,",",4,29
+South End,Bridgeport,1_neighborhood,Low-income children,503,Income by age: children,table,",",4,29
+Upper East Side,Bridgeport,1_neighborhood,Low-income children,1138,Income by age: children,table,",",4,29
+West End-West Side,Bridgeport,1_neighborhood,Low-income children,4325,Income by age: children,table,",",4,29
+Bridgeport,Bridgeport,2_city,Low-income children,22447,Income by age: children,table,",",4,29
+Fairfield County,Bridgeport,3_county,Low-income children,56535,Income by age: children,table,",",4,29
+Connecticut,Bridgeport,4_state,Low-income children,229817,Income by age: children,table,",",4,29
+Black Rock,Bridgeport,1_neighborhood,Child low-income rate,0.572,Income by age: children,map,.0%,5,30
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Child low-income rate,0.603,Income by age: children,map,.0%,5,30
+Downtown,Bridgeport,1_neighborhood,Child low-income rate,0.855,Income by age: children,map,.0%,5,30
+East End,Bridgeport,1_neighborhood,Child low-income rate,0.813,Income by age: children,map,.0%,5,30
+East Side,Bridgeport,1_neighborhood,Child low-income rate,0.742,Income by age: children,map,.0%,5,30
+Enterprise,Bridgeport,1_neighborhood,Child low-income rate,0.811,Income by age: children,map,.0%,5,30
+Hollow,Bridgeport,1_neighborhood,Child low-income rate,0.81,Income by age: children,map,.0%,5,30
+Mill Hill,Bridgeport,1_neighborhood,Child low-income rate,0.603,Income by age: children,map,.0%,5,30
+North End,Bridgeport,1_neighborhood,Child low-income rate,0.375,Income by age: children,map,.0%,5,30
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Child low-income rate,0.588,Income by age: children,map,.0%,5,30
+South End,Bridgeport,1_neighborhood,Child low-income rate,0.874,Income by age: children,map,.0%,5,30
+Upper East Side,Bridgeport,1_neighborhood,Child low-income rate,0.482,Income by age: children,map,.0%,5,30
+West End-West Side,Bridgeport,1_neighborhood,Child low-income rate,0.737,Income by age: children,map,.0%,5,30
+Bridgeport,Bridgeport,2_city,Child low-income rate,0.641,Income by age: children,map,.0%,5,30
+Fairfield County,Bridgeport,3_county,Child low-income rate,0.258,Income by age: children,map,.0%,5,30
+Connecticut,Bridgeport,4_state,Child low-income rate,0.301,Income by age: children,map,.0%,5,30
+Black Rock,Bridgeport,1_neighborhood,"Ages 65+, poverty status known",1239,Income by age: seniors,table,",",1,31
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,"Ages 65+, poverty status known",2494,Income by age: seniors,table,",",1,31
+Downtown,Bridgeport,1_neighborhood,"Ages 65+, poverty status known",447,Income by age: seniors,table,",",1,31
+East End,Bridgeport,1_neighborhood,"Ages 65+, poverty status known",740,Income by age: seniors,table,",",1,31
+East Side,Bridgeport,1_neighborhood,"Ages 65+, poverty status known",912,Income by age: seniors,table,",",1,31
+Enterprise,Bridgeport,1_neighborhood,"Ages 65+, poverty status known",66,Income by age: seniors,table,",",1,31
+Hollow,Bridgeport,1_neighborhood,"Ages 65+, poverty status known",360,Income by age: seniors,table,",",1,31
+Mill Hill,Bridgeport,1_neighborhood,"Ages 65+, poverty status known",1362,Income by age: seniors,table,",",1,31
+North End,Bridgeport,1_neighborhood,"Ages 65+, poverty status known",3038,Income by age: seniors,table,",",1,31
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,"Ages 65+, poverty status known",925,Income by age: seniors,table,",",1,31
+South End,Bridgeport,1_neighborhood,"Ages 65+, poverty status known",229,Income by age: seniors,table,",",1,31
+Upper East Side,Bridgeport,1_neighborhood,"Ages 65+, poverty status known",976,Income by age: seniors,table,",",1,31
+West End-West Side,Bridgeport,1_neighborhood,"Ages 65+, poverty status known",1637,Income by age: seniors,table,",",1,31
+Bridgeport,Bridgeport,2_city,"Ages 65+, poverty status known",14426,Income by age: seniors,table,",",1,31
+Fairfield County,Bridgeport,3_county,"Ages 65+, poverty status known",130544,Income by age: seniors,table,",",1,31
+Connecticut,Bridgeport,4_state,"Ages 65+, poverty status known",533413,Income by age: seniors,table,",",1,31
+Black Rock,Bridgeport,1_neighborhood,Seniors in poverty,115,Income by age: seniors,table,",",2,32
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Seniors in poverty,174,Income by age: seniors,table,",",2,32
+Downtown,Bridgeport,1_neighborhood,Seniors in poverty,161,Income by age: seniors,table,",",2,32
+East End,Bridgeport,1_neighborhood,Seniors in poverty,141,Income by age: seniors,table,",",2,32
+East Side,Bridgeport,1_neighborhood,Seniors in poverty,251,Income by age: seniors,table,",",2,32
+Enterprise,Bridgeport,1_neighborhood,Seniors in poverty,2,Income by age: seniors,table,",",2,32
+Hollow,Bridgeport,1_neighborhood,Seniors in poverty,90,Income by age: seniors,table,",",2,32
+Mill Hill,Bridgeport,1_neighborhood,Seniors in poverty,310,Income by age: seniors,table,",",2,32
+North End,Bridgeport,1_neighborhood,Seniors in poverty,324,Income by age: seniors,table,",",2,32
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Seniors in poverty,78,Income by age: seniors,table,",",2,32
+South End,Bridgeport,1_neighborhood,Seniors in poverty,38,Income by age: seniors,table,",",2,32
+Upper East Side,Bridgeport,1_neighborhood,Seniors in poverty,111,Income by age: seniors,table,",",2,32
+West End-West Side,Bridgeport,1_neighborhood,Seniors in poverty,281,Income by age: seniors,table,",",2,32
+Bridgeport,Bridgeport,2_city,Seniors in poverty,2074,Income by age: seniors,table,",",2,32
+Fairfield County,Bridgeport,3_county,Seniors in poverty,9121,Income by age: seniors,table,",",2,32
+Connecticut,Bridgeport,4_state,Seniors in poverty,38003,Income by age: seniors,table,",",2,32
+Black Rock,Bridgeport,1_neighborhood,Senior poverty rate,0.0928,Income by age: seniors,map,.0%,3,33
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Senior poverty rate,0.0696,Income by age: seniors,map,.0%,3,33
+Downtown,Bridgeport,1_neighborhood,Senior poverty rate,0.361,Income by age: seniors,map,.0%,3,33
+East End,Bridgeport,1_neighborhood,Senior poverty rate,0.191,Income by age: seniors,map,.0%,3,33
+East Side,Bridgeport,1_neighborhood,Senior poverty rate,0.275,Income by age: seniors,map,.0%,3,33
+Enterprise,Bridgeport,1_neighborhood,Senior poverty rate,0.0302,Income by age: seniors,map,.0%,3,33
+Hollow,Bridgeport,1_neighborhood,Senior poverty rate,0.249,Income by age: seniors,map,.0%,3,33
+Mill Hill,Bridgeport,1_neighborhood,Senior poverty rate,0.227,Income by age: seniors,map,.0%,3,33
+North End,Bridgeport,1_neighborhood,Senior poverty rate,0.107,Income by age: seniors,map,.0%,3,33
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Senior poverty rate,0.084,Income by age: seniors,map,.0%,3,33
+South End,Bridgeport,1_neighborhood,Senior poverty rate,0.164,Income by age: seniors,map,.0%,3,33
+Upper East Side,Bridgeport,1_neighborhood,Senior poverty rate,0.114,Income by age: seniors,map,.0%,3,33
+West End-West Side,Bridgeport,1_neighborhood,Senior poverty rate,0.171,Income by age: seniors,map,.0%,3,33
+Bridgeport,Bridgeport,2_city,Senior poverty rate,0.144,Income by age: seniors,map,.0%,3,33
+Fairfield County,Bridgeport,3_county,Senior poverty rate,0.0699,Income by age: seniors,map,.0%,3,33
+Connecticut,Bridgeport,4_state,Senior poverty rate,0.0712,Income by age: seniors,map,.0%,3,33
+Black Rock,Bridgeport,1_neighborhood,Low-income seniors,382,Income by age: seniors,table,",",4,34
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Low-income seniors,745,Income by age: seniors,table,",",4,34
+Downtown,Bridgeport,1_neighborhood,Low-income seniors,362,Income by age: seniors,table,",",4,34
+East End,Bridgeport,1_neighborhood,Low-income seniors,392,Income by age: seniors,table,",",4,34
+East Side,Bridgeport,1_neighborhood,Low-income seniors,472,Income by age: seniors,table,",",4,34
+Enterprise,Bridgeport,1_neighborhood,Low-income seniors,31,Income by age: seniors,table,",",4,34
+Hollow,Bridgeport,1_neighborhood,Low-income seniors,125,Income by age: seniors,table,",",4,34
+Mill Hill,Bridgeport,1_neighborhood,Low-income seniors,745,Income by age: seniors,table,",",4,34
+North End,Bridgeport,1_neighborhood,Low-income seniors,835,Income by age: seniors,table,",",4,34
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Low-income seniors,253,Income by age: seniors,table,",",4,34
+South End,Bridgeport,1_neighborhood,Low-income seniors,140,Income by age: seniors,table,",",4,34
+Upper East Side,Bridgeport,1_neighborhood,Low-income seniors,457,Income by age: seniors,table,",",4,34
+West End-West Side,Bridgeport,1_neighborhood,Low-income seniors,821,Income by age: seniors,table,",",4,34
+Bridgeport,Bridgeport,2_city,Low-income seniors,5759,Income by age: seniors,table,",",4,34
+Fairfield County,Bridgeport,3_county,Low-income seniors,26616,Income by age: seniors,table,",",4,34
+Connecticut,Bridgeport,4_state,Low-income seniors,122224,Income by age: seniors,table,",",4,34
+Black Rock,Bridgeport,1_neighborhood,Senior low-income rate,0.309,Income by age: seniors,map,.0%,5,35
+Brooklawn-St. Vincent,Bridgeport,1_neighborhood,Senior low-income rate,0.299,Income by age: seniors,map,.0%,5,35
+Downtown,Bridgeport,1_neighborhood,Senior low-income rate,0.81,Income by age: seniors,map,.0%,5,35
+East End,Bridgeport,1_neighborhood,Senior low-income rate,0.53,Income by age: seniors,map,.0%,5,35
+East Side,Bridgeport,1_neighborhood,Senior low-income rate,0.518,Income by age: seniors,map,.0%,5,35
+Enterprise,Bridgeport,1_neighborhood,Senior low-income rate,0.465,Income by age: seniors,map,.0%,5,35
+Hollow,Bridgeport,1_neighborhood,Senior low-income rate,0.346,Income by age: seniors,map,.0%,5,35
+Mill Hill,Bridgeport,1_neighborhood,Senior low-income rate,0.547,Income by age: seniors,map,.0%,5,35
+North End,Bridgeport,1_neighborhood,Senior low-income rate,0.275,Income by age: seniors,map,.0%,5,35
+Reservoir-Whiskey Hill,Bridgeport,1_neighborhood,Senior low-income rate,0.274,Income by age: seniors,map,.0%,5,35
+South End,Bridgeport,1_neighborhood,Senior low-income rate,0.61,Income by age: seniors,map,.0%,5,35
+Upper East Side,Bridgeport,1_neighborhood,Senior low-income rate,0.468,Income by age: seniors,map,.0%,5,35
+West End-West Side,Bridgeport,1_neighborhood,Senior low-income rate,0.501,Income by age: seniors,map,.0%,5,35
+Bridgeport,Bridgeport,2_city,Senior low-income rate,0.399,Income by age: seniors,map,.0%,5,35
+Fairfield County,Bridgeport,3_county,Senior low-income rate,0.204,Income by age: seniors,map,.0%,5,35
+Connecticut,Bridgeport,4_state,Senior low-income rate,0.229,Income by age: seniors,map,.0%,5,35
