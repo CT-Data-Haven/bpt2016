@@ -14,8 +14,10 @@ import '../styles/Chart.css';
 
 const colorscale = scaleOrdinal({
 	domain: ['1_neighborhood', '2_city', '3_county', '4_state'],
-	range: ['#6882a3', '#9f9f9f', '#9f9f9f', '#9f9f9f']
+	// range: ['#6882a3', '#9f9f9f', '#9f9f9f', '#9f9f9f']
+	range: ['#5474A4', '#97a0ae', '#97a0ae', '#97a0ae']
 });
+const hilite = '#47b3d5';
 
 const percent = (x) => format('.0%')(x);
 const neighborhood = (d) => d.neighborhood;
@@ -61,7 +63,7 @@ export default class Chart extends React.Component {
 	}
 
 	colorNeighborhood = (d) => {
-		return d.neighborhood === this.props.hood ? '#1dacd9' : colorscale(d.geoType);
+		return d.neighborhood === this.props.hood ? hilite : colorscale(d.geoType);
 	};
 
 	showTooltip = (d, e) => {

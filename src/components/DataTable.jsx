@@ -39,7 +39,7 @@ export default class DataTable extends React.Component {
 					});
 					return <Table.Row
 						key={i}
-						active={this.props.hood === hood}
+						positive={this.props.hood === hood}
 						onClick={(e) => this.props.handleClick(hood)}
 						>{cells}</Table.Row>;
 				})
