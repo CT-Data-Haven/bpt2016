@@ -1,7 +1,6 @@
 import React from 'react';
-import { Container, Form } from 'semantic-ui-react';
+import { Form } from 'semantic-ui-react';
 import * as _ from 'underscore';
-import { uniqWith } from 'lodash';
 
 export default class Filters extends React.Component {
 	render() {
