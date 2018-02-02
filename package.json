@@ -2,7 +2,7 @@
   "name": "bpt2016",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://camille-s.github.io/bpt2016",
+  "homepage": "https://ct-data-haven.github.io/bpt2016",
   "dependencies": {
     "@vx/axis": "0.0.153",
     "@vx/geo": "0.0.153",
