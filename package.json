@@ -7,7 +7,6 @@
     "@vx/axis": "0.0.153",
     "@vx/group": "0.0.153",
     "@vx/legend": "0.0.154",
-    "@vx/responsive": "0.0.153",
     "@vx/scale": "0.0.153",
     "@vx/shape": "0.0.153",
     "d3-array": "^1.2.1",
