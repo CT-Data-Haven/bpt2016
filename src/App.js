@@ -15,7 +15,8 @@ import DataTable from './components/DataTable';
 import Intro from './components/Intro';
 import Footer from './components/Footer';
 
-const shape = require('./components/bpt_shape.json');
+// const shape = require('./components/bpt_shape.json');
+import topology from './components/bpt_shape.json';
 const reset = { topic: 'Age', indicator: 'Percent under age 18', hood: 'Black Rock' };
 
 class App extends Component {
@@ -143,10 +144,10 @@ class App extends Component {
 					<Header as="h4">{this.state.indicator} by neighborhood, 2016</Header>
 					<CityMap
 						data={this.state.toMap}
-						shape={shape}
+						topology={topology}
 						width={380}
 						height={420}
-						colorscale={this.state.colorscale}
+						color={this.state.colorscale}
 						handleClick={this.handleVizClick}
 					/>
 				</Tab.Pane>

@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 import 'semantic-ui-css/semantic.min.css';
+import 'leaflet/dist/leaflet.css';
 
 import { loadData } from './components/DataLoader';
 
